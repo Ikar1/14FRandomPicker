@@ -1,5 +1,5 @@
 # 14FRandomPicker
-No saps a qui votar? Deixa que aquesta pàgina decideixi per tu.
+Vols participar a les eleccions del proxim 14F i convertir el teu vot en una partida de la ruleta russa? Aquí tens la solució.
 
-Es pot triar entre fer una tirada de tots els partits, només dels independentistes i només dels unionistes.
-El codi que decideix quin partit surt és molt simple i completament imparcial.
+Aquest projecte ha estat creat amb motius recreatius, i no s'ha d'interpretar de cap manera com a un intent d'influir en el vot de ningú.
+El algorisme que el fa funcionar és molt, MOLT simple i completament imparcial.
